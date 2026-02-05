@@ -1,0 +1,23 @@
+title : Hopital mangment
+
+requirement: create a hospital mangment project with python
+
+class entities :
+    1) hospital
+    2) department
+    3) doctor
+    4) patient
+    5) priscription 
+    6) billing
+
+
+details overview:
+Create a hopital mangment project with python which contains mentiond class entities, i want features like 
+    * admit patient 
+    * appointment patient with doctor
+    * dignosis
+    * medicine to patient by doctor on dignosis
+    * billing 
+    * discharge
+    * re-checkup schedule appointment
+    
